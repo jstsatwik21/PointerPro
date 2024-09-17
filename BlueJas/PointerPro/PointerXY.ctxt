@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=PointerXY
-comment1.params=str
-comment1.target=int\ parsingX(java.lang.String)
-comment2.params=str
-comment2.target=int\ parsingY(java.lang.String)
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
